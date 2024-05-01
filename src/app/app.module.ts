@@ -7,6 +7,7 @@ import { CoreModule } from './core/core.module';
 import { FooterComponent } from './shared/footer/footer.component';
 import { SharedModule } from './shared/shared.module';
 import { ContactModule } from './contact/contact.module';
+import { ScullyLibModule } from '@scullyio/ng-lib';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { ContactModule } from './contact/contact.module';
     CoreModule,
     SharedModule,
     ContactModule,
+    ScullyLibModule
   ],
   providers: [],
   bootstrap: [AppComponent]
