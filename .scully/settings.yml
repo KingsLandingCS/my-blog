@@ -1,0 +1,11 @@
+identifier: lcv4ndwepea6d6d0
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /home/zubair/Desktop/My-work/CS/my-blog
+distFolder: dist/my-blog
+outDir: /home/zubair/Desktop/My-work/CS/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
